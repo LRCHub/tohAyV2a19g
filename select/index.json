@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Believe (2023 rearrange ver.)",
+  "base_artist": "玉置成実",
+  "createdAt": "2025-12-03T09:13:53.424353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Believe",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/01_Believe_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Believe",
+      "artist": "Diamond Rio",
+      "has_synced": false,
+      "path": "select/02_I_Believe_Diamond_Rio.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Believe",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/03_I_Believe_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Believe Me Baby (I Lied)",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/04_Believe_Me_Baby_(I_Lied)_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Believe Me Baby (I Lied) (Album Version)",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/05_Believe_Me_Baby_(I_Lied)_(Album_Version)_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do You Believe Me Now",
+      "artist": "Jimmy Wayne",
+      "has_synced": true,
+      "path": "select/06_Do_You_Believe_Me_Now_Jimmy_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/07_I_Believe_In_You_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/08_I_Believe_In_You_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Can't Believe She Gives It All To Me - Single Version",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/09_I_Can't_Believe_She_Gives_It_All_To_Me_-_Single_Version_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Can't Believe That You've Stopped Loving Me",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/10_I_Can't_Believe_That_You've_Stopped_Loving_Me_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Still Believe In You",
+      "artist": "Desert Rose Band",
+      "has_synced": true,
+      "path": "select/11_I_Still_Believe_In_You_Desert_Rose_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Still Believe In You",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/12_I_Still_Believe_In_You_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Still Believe In You (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/13_I_Still_Believe_In_You_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Still Believe In You (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/14_I_Still_Believe_In_You_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's Only Make Believe (Re-Recorded In Stereo)",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/15_It's_Only_Make_Believe_(Re-Recorded_In_Stereo)_Conway_Twitty.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Believe",
+      "artist": "玉置 成実",
+      "has_synced": false,
+      "path": "select/pl_01_Believe_玉置_成実.txt"
+    }
+  ]
+}
